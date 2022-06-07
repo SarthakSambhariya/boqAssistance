@@ -1,0 +1,254 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+#agreementCheckbox {
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 1.125rem;
+  /* line-height: 1.25rem; */
+  color: #2f4776;
+}
+.TnCHeading {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 2.25rem;
+  line-height: 2.75rem;
+}
+.termsUl {
+  margin-top: 1.5rem;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.25rem;
+  line-height: 1.8rem;
+}
+#agreebutton {
+  font-family: Inter;
+  font-size: 1.125rem;
+  font-weight: 700;
+  line-height: 1.375rem;
+  background: #3b5998;
+  border-radius: 5px;
+  margin: 2rem 0 1rem 1rem;
+  padding: 0.8rem;
+}
+#agreebuttonMob {
+  width: 100%;
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 22px;
+  background: #3b5998;
+  border-radius: 5px;
+  padding: 0.8rem;
+  margin: 3rem 0rem;
+}
+.BOQheading {
+  font-family: Inter;
+  font-size: 2.25rem;
+  font-weight: 700;
+  line-height: 2.75rem;
+}
+.BOQheadingMob {
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 29px;
+}
+
+.BOQSubheading {
+  font-family: Inter;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.8125rem;
+  margin-right: 9rem;
+}
+.BOQSubheadingMob {
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 17px;
+}
+
+.blueBannerImg {
+  position: relative;
+  width: 64%;
+}
+.blueBannerImgMob {
+  position: relative;
+  width: 100%;
+}
+.blueBannerImgMob img {
+  position: relative;
+  width: 100%;
+}
+.blueBannerImg img {
+  width: 100%;
+  margin-top: 1.2rem;
+}
+.continueBtnText {
+  position: absolute;
+  bottom: 7.3rem;
+  left: 5rem;
+  font-family: Inter;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.8125rem;
+  color: #2f4776;
+  cursor: pointer;
+}
+.continueBtnTextMob {
+  position: absolute;
+  bottom: 17%;
+  left: 42%;
+  font-family: Inter;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 15px;
+  color: #2f4776;
+  cursor: pointer;
+}
+.benefitstxt {
+  font-family: Inter;
+  font-size: 1.8125rem;
+  font-weight: 600;
+  line-height: 2.8175rem;
+}
+.benefit-card-shadow {
+  background: #ffffff;
+  box-shadow: 0px 0px 8.42233px rgba(0, 0, 0, 0.25);
+  border-radius: 0.5264rem;
+  height: 10.211875rem;
+  width: 12.265rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+}
+.benefit-card-shadow-mob {
+  background: #ffffff;
+  box-shadow: 0px 0px 6.21182px rgba(0, 0, 0, 0.25);
+  border-radius: 6.21182px;
+  width: 100%;
+}
+
+.benefit-card-logo {
+  width: 60%;
+  padding: 3rem 1rem 1rem 1rem;
+}
+.benefit-card-logo-mob {
+  width: 20%;
+  padding: 0.4rem;
+}
+.benefit-card-logo-caption {
+  padding-bottom: 3rem;
+  text-align: center;
+}
+.benefit-card-logo-caption-mob {
+  width: 70%;
+  text-align: center;
+  padding-bottom: 1rem;
+}
+.howItWorks {
+  font-family: Inter;
+  font-size: 2.25rem;
+  font-weight: 600;
+  line-height: 2.75rem;
+}
+.stepCircle {
+  color: white;
+  background-color: #2f4776;
+  border-radius: 3rem;
+  width: 3rem;
+  height: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Inter;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.875rem;
+}
+.stepCircleMob {
+  color: white;
+  background-color: #2f4776;
+  border-radius: 3rem;
+  width: 3rem;
+  height: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Inter;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.875rem;
+  position: absolute;
+  top: -1.5rem;
+  left: -1.5rem;
+}
+.stepCircletext {
+  font-family: Inter;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.875rem;
+  color: #2f4776;
+  width: 19rem;
+}
+.stepCircletextMobOne {
+  width: 80%;
+  padding: 3rem 2rem;
+  font-family: Inter;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.875rem;
+  color: white;
+  background: linear-gradient(90deg, #10c679 0%, #30ab77 100%);
+  box-shadow: 0px 0px 7.34177px rgba(0, 0, 0, 0.1);
+  border-radius: 7.34177px;
+  position: relative;
+  text-align: center;
+}
+.stepCircletextMobThree {
+  width: 80%;
+  padding: 3rem 2rem;
+  font-family: Inter;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.875rem;
+  color: white;
+  background: linear-gradient(90deg, #029455 0%, #0d402a 100%);
+  box-shadow: 0px 0px 7.47758px rgba(0, 0, 0, 0.1);
+  border-radius: 7.47758px;
+  position: relative;
+  text-align: center;
+}
+.stepCircletextMobTwo {
+  width: 80%;
+  padding: 3rem 2rem;
+  font-family: Inter;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.875rem;
+  color: white;
+  background: linear-gradient(90deg, #30ac78 0%, #009454 100%);
+  box-shadow: 0px 0px 7.40506px rgba(0, 0, 0, 0.1);
+  border-radius: 7.40506px;
+  position: relative;
+  text-align: center;
+}
+@media only screen and (min-width: 600px) {
+  #mobileView {
+    display: none;
+  }
+  #pcView{
+    display: block;
+  }
+}
+@media only screen and (max-width: 600px) {
+  #mobileView {
+    display: block;
+  }
+  #pcView{
+    display: none;
+  }
+}

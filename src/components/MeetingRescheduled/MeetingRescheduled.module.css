@@ -1,0 +1,100 @@
+* {
+  font-size: 14px;
+}
+.boxShadow {
+  background: #ffffff;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15);
+  border-radius: 10px;
+  width: 70%;
+  height: 60%;
+  padding: 3rem;
+}
+.boxShadowMob {
+  background: #ffffff;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15);
+  border-radius: 10px;
+  width: 90%;
+  height: 60%;
+  padding:2rem 1rem 1rem 1rem;
+}
+.meetingScheduledText {
+  font-family: Inter;
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 39px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.meetingScheduledTextMob {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  width: 100%;
+  text-align: center;
+}
+.meetingDetailsFlexbox {
+  width: 80%;
+}
+.meetingDetailsFlexboxMob {
+  width: 100%;
+}
+.meetingsDetails {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.meetingsDetailsMob {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+}
+#addToCalendar {
+  background-color: #2f4776;
+  border-radius: 6px;
+  font-family: Inter;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.8125rem;
+  padding: 1rem 3rem;
+  margin-right: 1rem;
+}
+#addToCalendarMob {
+  background-color: #2f4776;
+  border-radius: 6px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13.8851px;
+  line-height: 17px;
+  padding: 1rem 3rem;
+  border: none;
+}
+#goToDashboard {
+  font-family: Inter;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.8125rem;
+  background-color: white;
+  border: 1px solid #2f4776;
+  color: #2f4776;
+  padding: 1rem 3rem;
+  margin-left: 1rem;
+}
+#goToDashboardMob {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13.573px;
+  line-height: 16px;
+  background-color: white;
+  border: 1px solid #2f4776;
+  color: #2f4776;
+  padding: 1rem 3rem;
+}
